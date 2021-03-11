@@ -54,7 +54,7 @@ body {
 .body2{
 	float: right;
 	height: 600px;
-	width: 1555px;
-	min-width: 1px;
+	width: 1500px;
+	min-width: 1500px;
 	max-width: 5000px;
 }
